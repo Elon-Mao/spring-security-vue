@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringModuleApplication<spring-module>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.elonmao.springmodule.SpringModuleApplication",
+            "projectName": "spring-module",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
